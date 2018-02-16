@@ -20,7 +20,7 @@ To check your current balance, click on `Check Balance`. For demo reasons we inc
 
 ## Team members
 
-- Ananja Joshi
+- Ananya Joshi
 - Liliane Ableitner
 - Sandro Schopfer
 - Arne Wulff
